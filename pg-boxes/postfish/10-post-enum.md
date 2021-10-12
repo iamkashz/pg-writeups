@@ -1,0 +1,8 @@
+# 10 post enum
+
+```
+cat /etc/shadow
+root:$6$tNdcrQMtlLShb.f0$tfVt3LKyJqF0PCp9AYVdhqHu37Det.gMjvdVmC8OYz0Twoa5cw2A9WJEGh/c8SrqDTIRRTfAMVoi58t.xowYQ1:18711:0:99999:7:::
+brian.moore:$6$28tsKX3Q.7oezVZv$.U96r95AuZOT9giBfmYSWSRLIjP0ws/feB4n0FOn3XFO5UQ0UhxL5w24YuWQ3Y15echh3.D8GP3VyVBi.LpK0.:18653:0:99999:7:::
+sales:$6$sKZXUDQzvfCCjRlx$LtMbfohO/RUNh2U115ggc10YF2wBK4fGEn3ttb3LqKYZrdmPSmc4kgTjYM7FRLYrLnHtMUyn95Stn1NIziu63.:18717:0:99999:7:::
+```
