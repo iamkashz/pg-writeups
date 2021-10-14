@@ -6,8 +6,15 @@ This book documents the process I've followed to solve the machine.
 
 ### Key things to note:
 
-* None of the writeups include images (unless I really needed a reason to add it).
-* Notes within the box are labeled in serial number of the path I took.
+* None of the writeups include images.
+* Notes within each box are labeled in serial number of the path I took.
+* No flags are documented.
+
+### Links to share:
+
+* [PHP Webshell](https://github.com/WhiteWinterWolf/wwwolf-php-webshell)
+* [PHP revshell](https://github.com/ivan-sincek/php-reverse-shell) (Works on Linux OS, macOS, and Windows OS.)
+* [ASPX shell](https://github.com/borjmz/aspx-reverse-shell)
 
 ## <mark style="color:blue;">About me</mark>
 

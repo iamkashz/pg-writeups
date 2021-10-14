@@ -1,0 +1,10 @@
+# 7 post enum
+
+```
+root@walla:~# cat /etc/shadow
+root:$6$qU5W4LSvgX8dD4M9$t10KlgT1jR5BBkN.6dYySitAsbLQw0rUPKo74bfs6rTIcdjK4YzsLgHomQx8hjrqv7lZ0I0BMepML.c9i5BFN1:18522:0:99999:7:::
+paige:$6$6VTcxY096xwaFGwv$arx1iuqjyuXTgPTqVD.xI9kT.Y5Jr82BmQQqAGM3SfGcCugRx94d8i3H9tKJ9BbcwKQ31fp3v1l6ZajN.fjyr1:18522:0:99999:7:::
+terry:$6$Zmva/yFcpjqSSc3e$/ha.aPuP45Q9am3yfbPpzJm/B9.PtSQe2UaqXtHOGGNH8sTEevY5prWJjU9c3x0lYoDa8/YxuX1UwNwt5XJn2.:18522:0:99999:7:::
+walter:$6$41hZ1VtUAaQHZDfa$FXY3MZI06Pd16G1Ir/BYBCKo/6bKYQ4T3Bkux7H9YTSJjBQjOQycf.IeyZpYctzX6x0Rik4hXrRQQTa0t2Ddh0:18522:0:99999:7:::
+janis:$6$CdA3xjIEIURtpJI0$CE5MjDe.a9Fq8JG30FQjvq4B4rHvDmRZ1SDPTMxA.Ugt.evpcucNTA8XLmtuXg9Gt5vAUO/qMX0L1Kbunq3Ei1:18522:0:99999:7:::
+```
