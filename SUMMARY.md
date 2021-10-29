@@ -121,7 +121,6 @@
   * [3 :30455 w3.css](pg-boxes/hawat/3-30455-w3.css.md)
   * [2 :17445 issue tracker](pg-boxes/hawat/2-17445-issue-tracker.md)
   * [1 recon](pg-boxes/hawat/1-recon.md)
-  * [Page 1](pg-boxes/hawat/page-1.md)
 * [HELPDESK](pg-boxes/helpdesk/README.md)
   * [2 :8080 ManageEngine ServiceDesk Plus 7.6.0](pg-boxes/helpdesk/2-8080-manageengine-servicedesk-plus-7.6.0.md)
   * [1 recon](pg-boxes/helpdesk/1-recon.md)
