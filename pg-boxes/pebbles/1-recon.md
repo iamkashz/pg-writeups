@@ -1,6 +1,7 @@
 # 1 recon
 
-```
+```bash
+---------------------Starting Script Scan-----------------------
 PORT     STATE SERVICE VERSION
 21/tcp   open  ftp     vsftpd 3.0.3
 22/tcp   open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.8 (Ubuntu Linux; protocol 2.0)
@@ -11,20 +12,26 @@ PORT     STATE SERVICE VERSION
 80/tcp   open  http    Apache httpd 2.4.18 ((Ubuntu))
 |_http-server-header: Apache/2.4.18 (Ubuntu)
 |_http-title: Pebbles
-3305/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
-|_http-server-header: Apache/2.4.18 (Ubuntu)
-|_http-title: Apache2 Ubuntu Default Page: It works
 8080/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
-|_http-favicon: Apache Tomcat
+|_http-server-header: Apache/2.4.18 (Ubuntu)
 | http-open-proxy: Potentially OPEN proxy.
 |_Methods supported:CONNECTION
-|_http-server-header: Apache/2.4.18 (Ubuntu)
+|_http-favicon: Apache Tomcat
 |_http-title: Tomcat
 Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 
-# nikto
+Making a script scan on extra ports: 3305
+3305/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
+|_http-server-header: Apache/2.4.18 (Ubuntu)
+```
+
+## Nikto 
+
+```bash
 + Cookie ZMSESSID created without the httponly flag
 + Cookie zmSkin created without the httponly flag
 + Cookie zmCSS created without the httponly flag
 + OSVDB-3092: /zm/: This might be interesting...
 ```
+
+
